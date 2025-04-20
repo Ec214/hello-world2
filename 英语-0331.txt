@@ -1,0 +1,16 @@
+openai chat，   openai instruct，  openai agent
+
+provider profile， apikey， base path， model
+
+completions
+
+OpenRouter · AI
+
+
+
+
+
+
+
+
+
